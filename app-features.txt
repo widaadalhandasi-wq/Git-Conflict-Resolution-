@@ -1,4 +1,5 @@
  Features:
  User Login
  Task Creation
- Basic Dashboard
+ Advanced Dashboard with Analytics
+ Team Collaboratio
