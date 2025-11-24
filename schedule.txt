@@ -1,5 +1,5 @@
- Monday: Team Meeting
- Tuesday: Development
- Wednesday: Development
- Thursday: Testing
- Friday: Review
+ Monday: Team Meeting and Planning
+ Tuesday: Frontend Development
+ Wednesday: Backend Development
+ Thursday: Integration Testing
+ Friday: Code Review and Deployment
