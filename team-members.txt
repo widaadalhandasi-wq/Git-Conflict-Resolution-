@@ -1,2 +1,4 @@
  Team Leader: John Smith
+ Developer: Alice Johnson
+ Developer: Bob Wilson
  Project Status: Active
