@@ -1,0 +1,3 @@
+ Product A: $100
+ Product B: $200
+ Product C: $300
