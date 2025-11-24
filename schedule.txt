@@ -1,0 +1,5 @@
+ Monday: Team Meeting
+ Tuesday: Development
+ Wednesday: Development
+ Thursday: Testing
+ Friday: Review
