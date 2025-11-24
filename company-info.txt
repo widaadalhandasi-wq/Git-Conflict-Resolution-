@@ -1,3 +1,3 @@
  Company Name: Tech Solutions
- Location: New York
+Location: San Francisco
  Phone: 555-1234
