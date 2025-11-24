@@ -1,5 +1,7 @@
  Features:
- User Login
+ User Login with Two-Factor Authentication
  Task Creation
+ Security Monitoring
  Advanced Dashboard with Analytics
- Team Collaboratio
+ Team Collaboration
+ master

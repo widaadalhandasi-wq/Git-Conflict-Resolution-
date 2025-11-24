@@ -1,4 +1,5 @@
 App Name: Task Manager
-Version: 2.0
-Database: PostgreSQL
-Port: 5000
+security-update
+Version: 2.5
+Database: PostgreSQL-Secure
+Port: 8443
