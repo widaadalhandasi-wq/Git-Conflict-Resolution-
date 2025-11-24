@@ -3,3 +3,7 @@
  Wednesday: Backend Development
  Thursday: Integration Testing
  Friday: Code Review and Deployment
+ Monday: Team Meeting
+ Tuesday-Wednesday: Development Sprint
+ Thursday: Testing
+ Friday: Review
