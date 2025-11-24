@@ -1,4 +1,4 @@
- App Name: Task Manager
- Version: 1.0
- Database: MySQL
- Port: 3000
+App Name: Task Manager
+Version: 1.5
+Database: MySQL-Secure
+Port: 8443
