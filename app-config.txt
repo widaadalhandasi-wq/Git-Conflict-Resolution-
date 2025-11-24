@@ -1,0 +1,4 @@
+ App Name: Task Manager
+ Version: 1.0
+ Database: MySQL
+ Port: 3000
